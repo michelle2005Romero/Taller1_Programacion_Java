@@ -1,6 +1,6 @@
 package ordenamiento;
 
-importar Java . útil _ matrices ; 
+import Java . útil _ matrices ; 
 import java.util.Scanner;
 
 public class Ordenamiento {
